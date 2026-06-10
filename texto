@@ -1,6 +1,6 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/otv2804/aula-git2.git
-git push -u origin main
+git init //inicia o git
+git add tantofaz  // add alguma coisa
+git commit -m "first commit" //fazer outra versão
+git branch -M main  // criar outra ramificação
+git remote add origin https://github.com/otv2804/aula-git2.git  // conecta o git com o repositório no github
+git push -u origin main  //manda os srquivos lá pro git hub

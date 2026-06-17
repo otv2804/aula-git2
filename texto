@@ -4,7 +4,7 @@ git commit -m "first commit" //fazer outra versão
 git branch -M main  // criar outra ramificação
 git remote add origin https://github.com/otv2804/aula-git2.git  // conecta o git com o repositório no github
 git push -u origin main  //manda os arquivos lá pro git hub
-
+git merge nome_branch // vai juntar os código através do commit
 
 "display: flex;" : vai fazer 'arrumar o site'
 ''flex-direction'' : a maneira que vai ser arrumado
